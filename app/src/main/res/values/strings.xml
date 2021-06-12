@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Social Media Integration</string>
+    <string name="client_id">your_client_id</string>
+    <string name="callback_url">https://instagram.com/</string>
+    <string name="base_url">https://api.instagram.com/</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">D9ArQrO9CPEoYcuBIbLIqwL2p</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">ZE77QhSS10WcwnRdLhHnzwk7yoC0fhQAIOqZcwtcXTXV6sCvqd</string>
+</resources>
